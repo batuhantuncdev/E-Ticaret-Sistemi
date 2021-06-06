@@ -1,2 +1,3 @@
 # E-Ticaret-Sistemi
-e- Ticaret Ekranı
+e- Ticaret Ekrani
+baslangic
