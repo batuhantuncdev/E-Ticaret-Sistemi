@@ -8,7 +8,7 @@
 
     <div class="collapse bg-light" id="collapseExample">
         <div id='cssmenu' class="menu3 " style="height: 100%">
-            <h4 class="ml-3 text-dark ">T�m Kategoriler</h4>
+            <h4 class="ml-3 text-dark ">Tum Kategoriler</h4>
             <hr>
 
             <ul class="list-group">
