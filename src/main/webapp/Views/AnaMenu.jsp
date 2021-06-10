@@ -2,6 +2,7 @@
 <% 
 		kategoriController dby=new kategoriController();
 		List<kategoriModel> kategorilerrr=dby.readingData();
+		System.out.println(kategorilerrr.size());
 
 %>
 
@@ -12,7 +13,7 @@
             <hr>
 
             <ul class="list-group">
-
+  
 			<%
 					for(kategoriModel kategorii:kategorilerrr){
 					%>	
@@ -21,7 +22,8 @@
 	                      	  <p class=" ml-2 float-left " style="font-size:15px"><%=kategorii.getKategoriAdi()%></p>
 	                    	</a>
 	                	</li>
-				<%	}%>
+				<%	}
+				%>
 			
 
             </ul>

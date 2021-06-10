@@ -31,7 +31,7 @@
                 </div>
                 <div class="col-3">
                     <div class=" float-right border-bottom ml-2"><span><img src="../img/unnamed.png" style="width: 25px" alt=""> <b class="text-dark">EKONOMIK VE HESAPLI</b>
-                            <p>Paranız cebinizde kalsin</p>
+                            <p>Paraniz cebinizde kalsin</p>
                         </span>
                     </div>
                 </div>
