@@ -14,7 +14,7 @@
 
         
         <div class="alert alert-secondary mt-2" role="alert">
-            <h4 id="list-item-1" class="ml-4 ">Yeni Urunler</h4>
+            <h4 id="list-item-1" class="ml-4 ">YENI URUNLER</h4>
         </div>
         <hr>
 
@@ -42,9 +42,7 @@
 				%>
                 
 
-                
-
-                
+               
 
                 
 
@@ -58,7 +56,7 @@
     
 
         <div class="alert alert-secondary  mt-2 " role="alert">
-            <h4 id="list-item-2" class="ml-4 ">Indirimdekiler</h4>
+            <h4 id="list-item-2" class="ml-4 ">INDIRIMDEKILER</h4>
         </div>
         <hr>
 
@@ -94,7 +92,7 @@
       
 
         <div class="alert alert-secondary mt-2" role="alert">
-            <h4 id="list-item-3" class="ml-4 ">Cok Satanlar</h4>
+            <h4 id="list-item-3" class="ml-4 ">COK SATANLAR</h4>
         </div>
         <hr>
 
@@ -129,14 +127,14 @@
 
 
         <div class="alert alert-secondary mt-2" role="alert">
-            <h4 id="list-item-4" class="ml-4 ">Hikayemiz</h4>
+            <h4 id="list-item-4" class="ml-4 ">HAKKIMIZDA</h4>
         </div>
         <hr>
         <div class="row" style="width: 100%; background-image: url(../img/aaq.jpg)">
 
             <div class="col-3"></div>
-            <div class="col-6" style="height: 600px;margin-top: 100px;">
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Delectus beatae alias iste dignissimos architecto velit sint est eum quisquam odio et doloremque quaerat odit, vel repellat adipisci nostrum unde totam aut libero culpa esse ratione. Voluptatibus esse cum in perferendis minus ea neque soluta voluptatem, at, praesentium aperiam! Commodi, officiis, consequuntur. Perferendis inventore cupiditate, error suscipit molestiae, incidunt sunt, saepe placeat animi neque libero odit aut quia nulla amet earum architecto sed quas tempore voluptatem possimus in praesentium atque! Assumenda magni tempore eligendi soluta culpa itaque sed aspernatur facere, totam, dicta vel quia quasi rerum, omnis aliquam doloribus asperiores dolorum.</p>
+            <div class="col-6" style="height: 300px;margin-top: 100px;">
+                <p>Gunumuz modasina ayak uydurarak sizlere modern,guzel,kullanisli,kendinizi iyi hissedeceginiz parcalar tasarliyoruz. Uzun zamandir bu piyasada olmamizla gelen tecrubemizle BIAY BUTIK olarak en iyisini yapabilecegimizi dusunuyoruz. </p>
             </div>
         </div>
 

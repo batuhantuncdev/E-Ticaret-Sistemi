@@ -4,8 +4,8 @@
         <nav class="navbar navbar-light ml">
 
             <form class="form-inline yer1">
-                <input class="form-control mr-sm-2 opak1" id="font1" style="width: 600px;height: 50px" type="search" placeholder="Aradiginiz Urunun Adini Yaziniz" aria-label="Search">
-                <button class="btn btn-outline-light ml-3 text-monospace" type="submit">Ara</button>
+                <input class="form-control mr-sm-2 opak1" id="font1" style="width: 500px;height: 50px" type="search" placeholder="urun adini yaziniz" aria-label="Search">
+                <button class="btn btn-outline-light ml-3 text-monospace" type="submit">ara</button>
             </form>
 			
 			<%
@@ -80,7 +80,7 @@
 			
 		
  					<li class="nav-item hover1     ">
-                    <a class="nav-link text-white " href="Sepetim.jsp"><img src="../img/sepet.png" class="img1" alt=""><span class=" rounded-circle " style="padding:2px;background-color:#f50"><%=urunSayisi %></span><br> Sepetim</a>
+                    <a class="nav-link text-white " href="Sepetim.jsp"><img src="../img/sepet.png" class="img1" alt=""><span class=" rounded-circle " style="padding:2px;background-color:#f50"><%=urunSayisi %></span><br>Sepetim</a>
                 </li>
  		
                 
@@ -93,18 +93,18 @@
         <div class="alert  bg-dark opak2 fx " style="width:100%;" role="alert">
             <ul class="mb-4 ul1">
                 <li class="li1"><a class=" aa ab" data-toggle="collapse" href="#collapseExample" role="button" aria-expanded="false" aria-controls="collapseExample" id="gk"><img src="../img/bar-icon.png" class="img1" alt="">
-                        Tum Kategoriler
+                        Kategoriler
                     </a></li>
                 <div id="list-example">
                     <li class="li1"><a href="Home.jsp#list-item-1" class="aa ab" id="asd">Yeni Urunler</a></li>
                     <li class="li1"><a href="Home.jsp#list-item-2" class="aa ab">Indirimdekiler</a></li>
                     <li class="li1"><a href="Home.jsp#list-item-3" class="aa ab">Cok Satanlar</a></li>
-                    <li class="li1"><a href="Home.jsp#list-item-4" class="aa ab">Hikayemiz</a></li>
+                    <li class="li1"><a href="Home.jsp#list-item-4" class="aa ab">Hakkimizda</a></li>
                     <li class="li1"><a href="Home.jsp#list-item-5" class="aa ab">Iletisim</a></li>
                 </div>
 
             </ul>
-            <a href="Home.jsp"><img src="../img/gk.jpg" class="img2 trans1" alt=""></a>
+            <a href="Home.jsp"><img src="../img/gk.jpg" class="img2" alt=""></a>
         </div>
         		
     </div>
