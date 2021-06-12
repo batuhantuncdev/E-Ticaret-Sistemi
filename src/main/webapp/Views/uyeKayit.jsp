@@ -11,7 +11,7 @@
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.4.1/css/all.css" integrity="sha384-5sAR7xN1Nv6T6+dT2mhtzEpVJvfS3NScPQTrOxhwjIuvcA67KV2R5Jz6kr4abQsz" crossorigin="anonymous">
 </head>
 
-<body style="background-color: #f2f2f2">
+<body style="background-color: #FCEAE5">
 
     <div class="row " style="width: 100%">
         <div class="col-4"></div>
@@ -19,12 +19,12 @@
 
             <div style="background-color: white">
                 <div class="mb-5 order-bottom">
-                    <a href="Home.jsp"><img src="../img/gk.jpg" class="img6 trans1 b" alt=""></a>
+                    <a href="Home.jsp"><img src="../img/gk.jpg" class="img6" alt=""></a>
 
                 </div>
 				
                 <div style="margin-left: 150px;margin-top: 150px">
-                    <p>Hesabinizi Olusturun <br> Hesabiniz Var Mi?<a href="uyeGiris.jsp" class="ab ml-1" style="color: #985634">Giris Yapin</a></p>
+                    <p>Kaydol<br> Hizli ve Kolaydir. <br> Hesabin Var Ise<a href="uyeGiris.jsp" class="ab ml-1" style="color: #985634">Giris Yap</a></p>
 
                 </div>
               
