@@ -63,7 +63,7 @@
 		<div class="row mx-auto" style="width: 100%;margin-top:200px">
 
 
-        <div class="col-2 ">
+        <div class="col-1 ">
 
         </div>
         
@@ -75,12 +75,12 @@
 			
 			<%
             	if(sepetim==null){
-            		%>
-            		
-            		<div class="alert alert-danger" role="alert">
- 						 Urun Bulunmamaktadir
+            		%> 
+            		 		               
+            		<div class="alert danger" role="alert">  
+ 						 Sepette urun bulunmamaktadir.					
 					</div>
-            		
+				           		
             	<%}
             	else{
             		
@@ -126,7 +126,7 @@
 
 
 
-            <div class="row bg-white m-2 p-3 text-secondary">
+            <div class="row bg-pink m-2 p-3 text-secondary">
                 <b>Sepet Toplami</b>
                 <hr>
                 <p>Sepet Toplami <span class="ml-5"><%=sayac %> TL</span></p>
