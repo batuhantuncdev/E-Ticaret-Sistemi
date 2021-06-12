@@ -5,7 +5,7 @@
 
             <form class="form-inline yer1">
                 <input class="form-control mr-sm-2 opak1" id="font1" style="width: 500px;height: 50px" type="search" placeholder="urun adini yaziniz" aria-label="Search">
-                <button class="btn btn-outline-light ml-3 text-monospace" type="submit">ara</button>
+                <button class="btn btn-outline-dark ml-3 text-monospace" type="submit">ara</button>
             </form>
 			
 			<%
@@ -90,7 +90,7 @@
 		
 		
 
-        <div class="alert  bg-dark opak2 fx " style="width:100%;" role="alert">
+        <div class="alert  bg-dark opak1 fx " style="width:100%;" role="alert">
             <ul class="mb-4 ul1">
                 <li class="li1"><a class=" aa ab" data-toggle="collapse" href="#collapseExample" role="button" aria-expanded="false" aria-controls="collapseExample" id="gk"><img src="../img/bar-icon.png" class="img1" alt="">
                         Kategoriler
