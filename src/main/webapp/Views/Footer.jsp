@@ -41,7 +41,7 @@
                             <ul class="list-group ">
                                 <li class="mb-1 "><a href="" class="ab text-dark">Yeni Uyelik</a></li>
                                 <li class="mb-1"><a href="" class="ab text-dark">Uye Girisi</a></li>
-                                <b>ILETISIM</b><span><img src="../img/telefon-ikonu-png-4.png" style="width: 25px;margin-left: 2px" alt=""> 0212 144 1414</span><br>
+                                <b>ILETISIM</b><span><img src="../img/telefon-ikonu-png-4.png" style="width: 25px;margin-left: 2px" alt=""> 0543 874 5755</span><br>
                                 <span><a href="##"><img src="../img/Instagram_AppIcon_Aug2017.png" style="width: 25px;margin-left: 2px" alt="#"></a> <a href="#"><img src="../img/facebook-ikonu-png-3.png" style="width: 35px;margin-left: 2px" alt=""></a><a href="#"><img src="../img/unnamed%20(1).png" style="width: 30px;margin-left: 2px" alt=""></a><a href="#"></a></span>
                             </ul>
                         </span>

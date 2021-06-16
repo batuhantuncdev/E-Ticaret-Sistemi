@@ -87,7 +87,7 @@
                     </div>
                     
                     <div class="row text-secondary mt-3 ml-3"><b> Urun Detayi </b> </div>
-                    <div class="row text-secondary mt-2 px-3"> <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolor voluptates labore alias iste pariatur, omnis nulla reiciendis nihil accusantium quo nesciunt deserunt necessitatibus illo nemo, aliquid odio inventore id non tenetur laborum sequi, maxime explicabo dolore? Iure asperiores, nostrum velit labore repellendus quas ea ex, consectetur reprehenderit nam eum autem expedita nihil odio rerum fuga delectus doloribus! Recusandae nihil id, quod ex aliquam quo doloribus soluta! Iure beatae dolores voluptatem voluptate iusto, ipsum nostrum. Mollitia molestiae dignissimos fugit laudantium ducimus nisi, accusamus non quis ea laborum aliquid ipsum totam repellat ipsam! Temporibus nisi molestiae accusantium aperiam, molestias esse facilis minima.</p> </div>
+                    <div class="row text-secondary mt-2 px-3"> <p> Gunumuz modasina ayak uydurarak sizlere modern,guzel,kullanisli,kendinizi iyi hissedeceginiz parcalar tasarliyoruz. Uzun zamandir bu piyasada olmamizla gelen tecrubemizle BIAY BUTIK olarak en iyisini yapabilecegimizi dusunuyoruz. </p> </div>
 
                 </div>
             </div>
