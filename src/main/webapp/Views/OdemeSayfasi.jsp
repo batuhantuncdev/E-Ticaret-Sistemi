@@ -46,14 +46,14 @@
                     <li class="nav-item">
                         <a class="nav-link" id="profile-tab" data-toggle="tab" href="#profile" role="tab" aria-controls="profile" aria-selected="false">
                             <div class="col-3">
-                                <p class="px-4 ml-2 mt-2 text-secondary"><img src="../img/credit-512.png" style="width: 60px;" alt=""><br>Kredi Karti</p>
+                                <p class="px-4 ml-2 mt-2 text-secondary"><img src="../img/credit-512.png" style="width: 90px;" alt=""><br>Kredi Karti</p>
                             </div>
                         </a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link " id="contact-tab" data-toggle="tab" href="#contact" role="tab" aria-controls="contact" aria-selected="false">
                             <div class="col-3">
-                                <p class="px-4 ml-2 mt-2 text-secondary"><img src="../img/Donate_Dollar-512.png" style="width: 85px" alt=""><br>Havale</p>
+                                <p class="px-4 ml-2 mt-2 text-secondary"><img src="../img/Donate_Dollar-512.png" style="width: 145px" alt=""><br>Havale</p>
                             </div>
                         </a>
                     </li>
