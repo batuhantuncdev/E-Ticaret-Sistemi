@@ -9,7 +9,7 @@
 
 
         <div class="alert alert-secondary mt-2" role="alert">
-            <h4 id="list-item-3" class="ml-4 ">Urunler</h4>
+            <h4 id="list-item-3" class="ml-4 ">URUNLER</h4>
         </div>
         <hr>
 
@@ -35,7 +35,7 @@
 
                                 <div style="background-color: white">
                                     <div class="mb-5 order-bottom">
-                                        <a href="adminpanel.jsp"><img src="../img/gk.jpg" class="img6 trans1 b" alt=""></a>
+                                        <a href="adminpanel.jsp"><img src="../img/gk.jpg" class="img6" alt=""></a>
 
                                     </div>
 
@@ -171,7 +171,7 @@
                            <td><%= urun.getFotograf() %></td>
                            <td><%= urun.getKategoriKodu() %></td>
                            <td><%= urun.getKategoriKodu() %></td>
-                           <td><button type="button" class="btn btn-secondary " data-toggle="modal" data-target="#exampleModalLong8">
+                           <td><button type="button" class="btn btn-info " data-toggle="modal" data-target="#exampleModalLong8">
                                    Guncelle
                                </button><a href="urunSil.jsp?<%= urun.getUrunKodu() %>"><button type="button" class="btn btn-danger ml-2">
                                             Sil

@@ -11,7 +11,8 @@
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.4.1/css/all.css" integrity="sha384-5sAR7xN1Nv6T6+dT2mhtzEpVJvfS3NScPQTrOxhwjIuvcA67KV2R5Jz6kr4abQsz" crossorigin="anonymous">
 </head>
-<body>
+<body style="background-color:#f6e1d5">
+
 
 
 <div class="row" style="margin-top:200px">
@@ -82,10 +83,7 @@
                 <div class=" mt ml-5 mt-3">
                     <select class="custom-select" name="sehir" id="validationCustom04" required>
                         <option selected disabled value="">sehir</option>
-                        <option>samsun</option>
                         <option>istanbul</option>
-                        <option>ankara</option>
-                        <option>izmir</option>
                     </select>
                     <div class="invalid-feedback">
                         Sehir giriniz
@@ -95,9 +93,13 @@
                 <div class=" mt ml-5 mt-3">
                     <select class="custom-select" id="validationCustom04" name="ilce" required>
                         <option selected disabled value="">ilce</option>
-                        <option>ilkadim</option>
-                        <option>atakum</option>
-                        <option>canik</option>
+                        <option>besiktas</option>
+                        <option>kadikoy</option>
+                        <option>sisli</option>
+                        <option>avcilar</option>
+                        <option>bahcelievler</option>
+                        <option>uskudar</option>
+                        <option>esenler</option>
                         
                     </select>
                     <div class="invalid-feedback">

@@ -11,7 +11,7 @@
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.4.1/css/all.css" integrity="sha384-5sAR7xN1Nv6T6+dT2mhtzEpVJvfS3NScPQTrOxhwjIuvcA67KV2R5Jz6kr4abQsz" crossorigin="anonymous">
 </head>
-<body style="background-color: #E6E6E6">
+<body style="background-color: #f6e1d5">
 <%@ include file="Header.jsp" %>
 
 
@@ -39,24 +39,17 @@
                     <li class="nav-item">
                         <a class="nav-link " id="home-tab" data-toggle="tab" href="#home" role="tab" aria-controls="home" aria-selected="true">
                             <div class="col-3 ">
-                                <p class="px-4 ml-2 mt-2 text-secondary"><img src="../img/1338-512.png" style="width: 60px" alt=""><br>Kapida Odeme</p>
+                                <p class="px-4 ml-2 mt-2 text-secondary"><img src="../img/1338-512.png" style="width: 130px" alt=""><br>Kapida Odeme</p>
                             </div>
                         </a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" id="profile-tab" data-toggle="tab" href="#profile" role="tab" aria-controls="profile" aria-selected="false">
                             <div class="col-3">
-                                <p class="px-4 ml-2 mt-2 text-secondary"><img src="../img/credit-512.png" style="width: 90px;" alt=""><br>Kredi Karti</p>
+                                <p class="px-4 ml-2 mt-2 text-secondary"><img src="../img/credit-512.png" style="width: 130px;" alt=""><br>Kredi Karti/Banka Karti</p>
                             </div>
                         </a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link " id="contact-tab" data-toggle="tab" href="#contact" role="tab" aria-controls="contact" aria-selected="false">
-                            <div class="col-3">
-                                <p class="px-4 ml-2 mt-2 text-secondary"><img src="../img/Donate_Dollar-512.png" style="width: 145px" alt=""><br>Havale</p>
-                            </div>
-                        </a>
-                    </li>
+                    </li>        
                 </ul>
             </div>
             <div class="tab-content" id="myTabContent">
@@ -68,11 +61,6 @@
                 <div class="tab-pane fade" id="profile" role="tabpanel" aria-labelledby="profile-tab">
 
                         <a href="odemecontrol.jsp?tip=krediKarti"> <button class="btn btn-success pos stic ml-2" style="width: 190px ;padding: 2px"><img src="../img/sepet.png" alt="" style="width: 40px;"> Siparisi Tamamla </button></a>
-                </div>
-                <div class="tab-pane fade show" id="contact" role="tabpanel" aria-labelledby="contact-tab">
-                    
-                    <a href="odemecontrol.jsp?tip=havale&"> <button class="btn btn-success pos stic ml-2" style="width: 190px ;padding: 2px"><img src="../img/sepet.png" alt="" style="width: 40px;"> Siparisi Tamamla </button></a>
-                    
                 </div>
             </div>
 

@@ -11,7 +11,7 @@
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.4.1/css/all.css" integrity="sha384-5sAR7xN1Nv6T6+dT2mhtzEpVJvfS3NScPQTrOxhwjIuvcA67KV2R5Jz6kr4abQsz" crossorigin="anonymous">
 </head>
-<body style="background-color: #E6E6E6">
+<body style="background-color: #F1EAE3">
 		
 			<%@ include file="Header.jsp" %>
 			
@@ -21,7 +21,7 @@
 
         <div class="col-2 ">
 
-        </div>
+        </div>        
 
         <div class="col-8 ">
 
@@ -30,13 +30,13 @@
                     <div id="carouselExampleControls" class="carousel slide my-2" data-ride="carousel">
                         <div class="carousel-inner">
                             <div class="carousel-item active">
-                                <img src="../img/hatay-nar-eksisi-650-gr-nar-eksisi-sirke-toprak-dogal-akdeniz-172-75-K.jpg" class="d-block w-100" alt="...">
+                                <img src="../img/pembe_elbise.jpg" class="d-block w-100" alt="...">
                             </div>
                             <div class="carousel-item">
-                                <img src="../img/trabzon-elma-sirkesi-250-gr-nar-eksisi-sirke-toprak-dogal-karadeniz-176-76-K.jpg" class="d-block w-100" alt="...">
+                                <img src="../img/yesil_elbise.jpg" class="d-block w-100" alt="...">
                             </div>
                             <div class="carousel-item">
-                                <img src="../img/artvin-hatila-vadisi-bali-1000-gr-bal-pekmez-toprak-dogal-karadeniz-140-61-K.jpg" class="d-block w-100" alt="...">
+                                <img src="../img/siyah_elbise.jpg" class="d-block w-100" alt="...">
                             </div>
                         </div>
                         <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
@@ -52,7 +52,7 @@
                 <div class="col-7">
 
                     <div class="row mt-2 ml-3 text-secondary">
-                        <b class="text-capitalize">Urun Adi :<span>ad</span></b>
+                        <b class="text-capitalize">Urun Adi :<span>elbise</span></b>
                     </div>
                     <div class="row mt-2 ml-3 text-secondary">
                         <p class="text-capitalize">Urun Kodu :<span>kod</span></p>
@@ -61,7 +61,7 @@
                     <div class="row mt-5 ">
                         <form>
                             <div class="row  text-success">
-                                <span class="border-bottom text-success ml-5" style="font-size: 30px">3000<img src="../img/343-512.webp" style="height: 25px" alt=""></span>
+                                <span class="border-bottom text-success ml-5" style="font-size: 30px">350<img src="../img/343-512.webp" style="height: 25px" alt=""></span>
                                 <div class="ml-5">
 
                                     <select class="custom-select" id="validationCustom04" required>
@@ -74,6 +74,19 @@
                                        	%>
                                        	
                                     </select>
+                                    <select class="custom-select" id="validationCustom04" required>
+                                        <option selected disabled value="">Beden</option>
+                                        
+                                       	
+                                       			<option><%='S'%></option>
+                                       			<option><%='M'%></option>
+                                       			<option><%='L'%></option>
+
+                                       		
+                                       	
+                                    </select>
+                                    
+                                    
                                     <div class="invalid-feedback">
                                         Adet Seciniz
                                     </div>

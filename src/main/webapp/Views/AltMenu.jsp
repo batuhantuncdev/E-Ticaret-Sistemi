@@ -6,9 +6,9 @@
 
             <a href="" class="ab ">
                 <div class="card bg-light " style=" border: none">
-                    <img src="../img/artvin-kestane-bali-400-gr-bal-pekmez-toprak-dogal-karadeniz-137-60-K.jpg" class="card-img-top p-1 trans2" style="border-radius: 10px;" alt="...">
+                    <img src="../img/kirmizi_elbise.jpg" class="card-img-top p-1 trans2" style="border-radius: 10px;" alt="...">
                     <div class="card-title ml-5 card1">
-                        Lorem ipsum.
+                        ürün
                     </div>
 
                 </div>
@@ -19,9 +19,9 @@
 
             <a href="" class="ab">
                 <div class="card bg-light  " style="border: none">
-                    <img src="../img/hatay-nar-eksisi-650-gr-nar-eksisi-sirke-toprak-dogal-akdeniz-172-75-K.jpg" class="card-img-top p-1 trans2" style="border-radius: 10px;" alt="...">
+                    <img src="../img/pembe_elbise.jpg" class="card-img-top p-1 trans2" style="border-radius: 10px;" alt="...">
                     <div class="card-title ml-5 card1">
-                        Lorem ipsum.
+                        ürün
                     </div>
 
                 </div>
@@ -32,9 +32,9 @@
 
             <a href="" class="ab">
                 <div class="card bg-light  " style="border: none">
-                    <img src="../img/kars-malakan-peyniri-500-gr-peynir-toprak-dogal-dogu-anadolu-111-51-K.jpg" class="card-img-top p-1 trans2" style="border-radius: 10px;" alt="...">
+                    <img src="../img/cicekli_elbise.jpg" class="card-img-top p-1 trans2" style="border-radius: 10px;" alt="...">
                     <div class="card-title ml-5 card1">
-                        Lorem ipsum.
+                        ürün
                     </div>
 
                 </div>
@@ -45,9 +45,9 @@
 
             <a href="" class="ab">
                 <div class="card bg-light  " style="border: none">
-                    <img src="../img/trabzon-elma-sirkesi-250-gr-nar-eksisi-sirke-toprak-dogal-karadeniz-176-76-K.jpg" class="card-img-top p-1 trans2" style="border-radius: 10px;" alt="...">
+                    <img src="../img/yesil_elbise.jpg" class="card-img-top p-1 trans2" style="border-radius: 10px;" alt="...">
                     <div class="card-title ml-5 card1">
-                        Lorem ipsum.
+                        ürün
                     </div>
 
                 </div>
@@ -58,9 +58,9 @@
 
             <a href="" class="ab">
                 <div class="card bg-light  " style="border: none">
-                    <img src="../img/hatay-nar-eksisi-650-gr-nar-eksisi-sirke-toprak-dogal-akdeniz-172-75-K.jpg" class="card-img-top p-1 trans2" style="border-radius: 10px;" alt="...">
+                    <img src="../img/pembe_elbise.jpg" class="card-img-top p-1 trans2" style="border-radius: 10px;" alt="...">
                     <div class="card-title ml-5 card1">
-                        Lorem ipsum.
+                        ürün
                     </div>
 
                 </div>

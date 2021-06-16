@@ -7,7 +7,7 @@
 %>
 
 <div class="alert alert-secondary " style="margin-top: 200px" role="alert">
-            <h4 id="list-item-1" class="ml-4">Müsteriler</h4>
+            <h4 id="list-item-1" class="ml-4">MUSTERILER</h4>
         </div>
         <hr>
         <!-- Button trigger modal -->
@@ -32,7 +32,7 @@
 
                                 <div style="background-color: white">
                                     <div class="mb-5 order-bottom">
-                                        <a href="adminpanel.jsp"><img src="../img/gk.jpg" class="img6 trans1 b" alt=""></a>
+                                        <a href="adminpanel.jsp"><img src="../img/gk.jpg" class="img6" alt=""></a>
 
                                     </div>
 
@@ -88,11 +88,8 @@
 
                                             <div class=" mt mt-3">
                                                 <select class="custom-select" name="sehir" id="validationCustom04" required>
-                                                    <option selected disabled value="">Sehir</option>
-                                                    <option>Samsun</option>
+                                                    <option selected disabled value="">Sehir</option>               
                                                     <option>istanbul</option>
-                                                    <option>izmir</option>
-                                                    <option>ankara</option>
                                                 </select>
                                                 <div class="invalid-feedback">
                                                     Sehir giriniz
@@ -102,9 +99,13 @@
                                             <div class=" mt mt-3">
                                                 <select class="custom-select" name="ilce" id="validationCustom04" required>
                                                     <option selected disabled value="">ilce</option>
-                                                    <option>Atakum</option>
-                                                    <option>ilkadim</option>
-                                                    <option>Canik</option>
+                                                    <option>besiktas</option>
+                                                    <option>kadikoy</option>
+                                                    <option>sisli</option>
+                                                    <option>avcilar</option>
+                                                    <option>bahcelievler</option>
+                                                    <option>uskudar</option>
+                                                    <option>esenler</option>
                                                 </select>
                                                 <div class="invalid-feedback">
                                                     ilce giriniz
@@ -174,7 +175,7 @@
                                     <td><%=uye.getSehir() %></td>
                                     <td><%=uye.getIlce() %></td>
                                     <td><%=uye.getAdres() %></td>
-                                    <td><button type="button" class="btn btn-secondary " data-toggle="modal" data-target="#exampleModalLong">
+                                    <td><button type="button" class="btn btn-info " data-toggle="modal" data-target="#exampleModalLong">
                                             Guncelle
                                         </button><a href="musteriSil.jsp?<%=uye.getKullaniciAdi()%>"><button type="button" class="btn btn-danger ml-2">
                                             Sil
