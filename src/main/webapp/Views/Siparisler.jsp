@@ -11,7 +11,8 @@
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.4.1/css/all.css" integrity="sha384-5sAR7xN1Nv6T6+dT2mhtzEpVJvfS3NScPQTrOxhwjIuvcA67KV2R5Jz6kr4abQsz" crossorigin="anonymous">
 </head>
-<body>
+<body style="background-color:#f6e1d5">
+
 
 	<%@ include file="Header.jsp" %>
 
@@ -31,9 +32,9 @@
                                 <b>Siparis Tarihi :</b><span> @tarih</span></div>
                             <div class="col-4">
                                 <div class="progress">
-                                    <div class="progress bg-success progress-bar-striped progress-bar-animated" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100" style="width: 75%"></div>
+                                    <div class="progress bg-warning progress-bar-striped progress-bar-animated" role="progressbar" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100" style="width: 50%"></div>
                                 </div><br>
-                                <b class="float-left text-success">Teslim Edildi</b>
+                                <b class="float-left text-warning">Siparisiniz Hazirlandi</b>
                             </div>
                             <div class="col-4">
                                 <h2 class=" mt-3 float-right">
@@ -53,7 +54,7 @@
                                 <div class="col-5 bg-light">
                                     <a href="" class="ab">
                                         <div class="media ml-2">
-                                            <img src="../img/artvin-kestane-bali-400-gr-bal-pekmez-toprak-dogal-karadeniz-137-60-K.jpg" style="width: 70px;height: auto" class="mr-1 mt-2" alt="...">
+                                            <img src="../img/kirmizi_elbise.jpg" style="width: 70px;height: auto" class="mr-1 mt-2" alt="...">
                                             <div class="media-body ml-5 p-2 py-3">
                                                 <h6 class="text-dark">@Urun Kodu</h6>
                                                 <h5 class="mt-0 text-dark">@Urun ismi</h5>
@@ -64,8 +65,8 @@
                                 </div>
                                 <div class="col-7">
                                     <div class="progress ">
-                                        <div class="progress-bar bg-danger" role="progressbar" style="width: 18% " aria-valuenow="20" aria-valuemin="0" aria-valuemax="100">Isleme Alindi</div>
-                                        <div class="progress-bar bg-warning" role="progressbar" style="width: 25%" aria-valuenow="30" aria-valuemin="0" aria-valuemax="100">Hazirlandi</div>
+                                        <div class="progress-bar bg-danger" role="progressbar" style="width: 22% " aria-valuenow="20" aria-valuemin="0" aria-valuemax="100">Siparisiniz Alindi</div>
+                                        <div class="progress-bar bg-warning" role="progressbar" style="width: 25%" aria-valuenow="30" aria-valuemin="0" aria-valuemax="100">Siparisiniz Hazirlandi</div>
                                         <div class="progress-bar bg-info" role="progressbar" style="width: 27%" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100">Kargoya Verildi</div>
                                         <div class="progress-bar bg-success" role="progressbar" style="width: 33%" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100">Teslim Edildi</div>
                                     </div>

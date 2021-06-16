@@ -8,7 +8,7 @@
 
 
         <div class="alert alert-secondary mt-2" role="alert">
-            <h4 id="list-item-5" class="ml-4 ">Yoneticiler</h4>
+            <h4 id="list-item-5" class="ml-4 ">YONETICILER</h4>
         </div>
         <hr>
         <!-- Button trigger modal -->
@@ -33,7 +33,7 @@
 
                                 <div style="background-color: white">
                                     <div class="mb-5 order-bottom">
-                                        <a href="Home.html"><img src="../img/gk.jpg" class="img6 trans1 b" alt=""></a>
+                                        <a href="Home.html"><img src="../img/gk.jpg" class="img6" alt=""></a>
 
                                     </div>
 
@@ -100,7 +100,7 @@
                         				<tr>
                             					<th scope="row"><%=yonetici.getKullaniciAdi() %></th>
                             					<td><%=yonetici.getSifre() %></td>
-                            					<td style=""><button type="button" class="btn btn-secondary " data-toggle="modal" data-target="#exampleModalLong45">
+                            					<td style=""><button type="button" class="btn btn-info " data-toggle="modal" data-target="#exampleModalLong45">
                                    					 Guncelle
                                 				</button><a href="yoneticiSil.jsp?<%=yonetici.getKullaniciAdi() %>"><button type="button" class="btn btn-danger ml-2">
                                             Sil

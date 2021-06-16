@@ -8,7 +8,7 @@
 
 
 <div class="alert  alert-secondary mt-2 " role="alert">
-            <h4 id="list-item-2" class="ml-4 ">Kategoriler</h4>
+            <h4 id="list-item-2" class="ml-4 ">KATEGORILER</h4>
         </div>
         <hr>
         <!-- Button trigger modal -->
@@ -33,7 +33,7 @@
 
                                 <div style="background-color: white">
                                     <div class="mb-5 order-bottom">
-                                        <a href="Home.html"><img src="../img/gk.jpg" class="img6 trans1 b" alt=""></a>
+                                        <a href="Home.html"><img src="../img/gk.jpg" class="img6" alt=""></a>
 
                                     </div>
 
@@ -51,9 +51,9 @@
                                             </div>
                                             <div class="md mt-3">
 
-                                                <input type="text" class="form-control" id="validationCustom01" name="kategoriAdi" placeholder="Kategori Ad" required>
+                                                <input type="text" class="form-control" id="validationCustom01" name="kategoriAdi" placeholder="Kategori Adi" required>
                                                 <div class="valid-feedback">
-                                                    Kategori Ad Giriniz
+                                                    Kategori Adi Giriniz
                                                 </div>
                                             </div>
 
@@ -81,7 +81,7 @@
                 <table class="table table-hover px-5">
                     <thead>
                         <tr>
-                            <th scope="col">Kategori Numarası</th>
+                            <th scope="col">Kategori Numarasi</th>
                             <th scope="col">Kategori adi</th>
                             <th scope="col">islemler</th>
                             
@@ -96,7 +96,7 @@
                         						<tr>
                                                 <th scope="row"><%=kategori.getKategoriId() %></th>
                                                 <td><%=kategori.getKategoriAdi() %></td>
-                                                <td><button type="button" class="btn btn-secondary " data-toggle="modal" data-target="#exampleModalLong2">
+                                                <td><button type="button" class="btn btn-info " data-toggle="modal" data-target="#exampleModalLong2">
                                                         Guncelle
                                                     </button><a href="kategoriSil.jsp?<%=kategori.getKategoriId()%>"><button type="button" class="btn btn-danger ml-2">
                                             Sil

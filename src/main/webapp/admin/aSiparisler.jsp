@@ -7,7 +7,7 @@
 %>
 
         <div class="alert alert-secondary mt-2" role="alert">
-            <h4 id="list-item-4" class="ml-4 ">Siparisler</h4>
+            <h4 id="list-item-4" class="ml-4 ">SIPARISLER</h4>
         </div>
         <hr>
 

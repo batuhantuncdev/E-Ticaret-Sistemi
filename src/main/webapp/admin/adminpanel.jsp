@@ -10,7 +10,7 @@
 
 </head>
 
-<body>
+<body style="background-color: #fbf2ed">
 
     <div class="nava fx" style="width: 100%">
         <nav class="navbar navbar-light ml">
@@ -42,7 +42,7 @@
                 </div>
 
             </ul>
-            <a href="Home.html"><img src="../img/gk.jpg" class="img2 trans1" alt=""></a>
+            <a href="Home.html"><img src="../img/gk.jpg" class="img2" alt=""></a>
         </div>
     </div>
 

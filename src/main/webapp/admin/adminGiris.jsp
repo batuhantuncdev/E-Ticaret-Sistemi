@@ -10,15 +10,15 @@
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.4.1/css/all.css" integrity="sha384-5sAR7xN1Nv6T6+dT2mhtzEpVJvfS3NScPQTrOxhwjIuvcA67KV2R5Jz6kr4abQsz" crossorigin="anonymous">
 </head>
-<body class="bg-dark">
+<body style="background-color: #844f31">
 
-    <div class="row mt-5 bg-dark" style="width: 100%">
+    <div class="row mt-5" style="width: 100%">
         <div class="col-4"></div>
         <div class="col-4 bg-white py-3 my-3">
 
             <div style="background-color: white">
                 <div class="mb-5 order-bottom">
-                    <a href="Home.jsp"><img src="../img/gk.jpg" class="img6 trans1 b" alt=""></a>
+                    <a href="Home.jsp"><img src="../img/gk.jpg" class="img6" alt=""></a>
                     
 
                 </div>
@@ -31,7 +31,7 @@
                 <div style="margin-top:150px;" class="p-3 mb-3">
                 
                 		<div class="alert alert-secondary container" role="alert">
-  							Yonetici Paneli Giris Sayfasi
+  							Yonetici Giris Sayfasi
 						</div>
          	       		
                 <%
@@ -59,7 +59,7 @@
                             </div>
                             <div class="input-group mt-4">
                                 
-                                <input type="password" class="form-control" aria-describedby="inputGroupPrepend" name="sifre" placeholder="sifre" required>
+                                <input type="password" class="form-control" aria-describedby="inputGroupPrepend" name="sifre" placeholder="Sifre" required>
                                 <div class="invalid-feedback">
                                     Sifrenizi Giriniz 
                                 </div>
